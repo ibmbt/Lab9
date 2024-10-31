@@ -1,0 +1,13 @@
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: grey;
+    border-width: 3px;
+    border-color: rgb(7, 7, 8);
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+
+}
