@@ -11,3 +11,19 @@
     text-align: center;
 
 }
+
+.normal-para {
+    color: rgb(94, 0, 86);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    background-color: aquamarine;
+}
+
+#fav-para {
+    color: rgb(38, 63, 172);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+    background-color: black;
+}
